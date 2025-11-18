@@ -13,3 +13,7 @@ initScrollSuave();
 import initAnimacaoScroll from './modules/scroll-animacao.js'
 
 initAnimacaoScroll();
+
+import initmodal from './modules/modal.js'
+
+initmodal();
