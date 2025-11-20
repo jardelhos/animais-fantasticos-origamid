@@ -17,3 +17,7 @@ initAnimacaoScroll();
 import initmodal from './modules/modal.js'
 
 initmodal();
+
+import initTooltip from './modules/tooltip.js'
+
+initTooltip();
