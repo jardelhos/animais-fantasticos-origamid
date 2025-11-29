@@ -21,3 +21,7 @@ initmodal();
 import initTooltip from './modules/tooltip.js'
 
 initTooltip();
+
+import initDropMenu from './modules/dropmenu.js'
+
+initDropMenu();
