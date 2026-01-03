@@ -25,3 +25,7 @@ initTooltip();
 import initDropMenu from './modules/dropmenu.js'
 
 initDropMenu();
+
+import initMenuMobile from './modules/menu-mobile.js'
+
+initMenuMobile();
