@@ -29,3 +29,7 @@ initDropMenu();
 import initMenuMobile from './modules/menu-mobile.js'
 
 initMenuMobile();
+
+import initNumeros from './modules/numeros.js'
+
+initNumeros();
