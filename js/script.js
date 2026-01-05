@@ -33,3 +33,7 @@ initMenuMobile();
 import initNumeros from './modules/numeros.js'
 
 initNumeros();
+
+import initfuncionamento from './modules/funcionamento.js'
+
+initfuncionamento();
